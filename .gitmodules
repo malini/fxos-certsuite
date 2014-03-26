@@ -1,0 +1,3 @@
+[submodule "marionette-extension"]
+	path = marionette-extension
+	url = https://github.com/mozilla-b2g/marionette-extension.git
